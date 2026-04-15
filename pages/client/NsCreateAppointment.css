@@ -1,0 +1,489 @@
+.ns-create-appointment-page {
+  /* To override any container padding injected by layout */
+  width: 100vw !important;
+  max-width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow-x: hidden;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: #f9fafb;
+  font-family: 'Tajawal', sans-serif;
+}
+
+.ns-main-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px; /* Offset for fixed header */
+  background-color: #f9fafb;
+}
+
+.ns-header-section {
+  background-color: #f9fafb;
+  padding: 60px 0 30px;
+}
+
+.ns-header-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 40px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.ns-breadcrumbs {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  color: #6b7280;
+  margin-bottom: 16px;
+}
+
+.ns-breadcrumb-link {
+  color: #10b981;
+  text-decoration: none;
+}
+
+.ns-breadcrumb-link:hover {
+  text-decoration: underline;
+}
+
+.ns-breadcrumb-separator {
+  color: #9ca3af;
+  display: flex;
+  align-items: center;
+}
+
+.ns-breadcrumb-current {
+  color: #9ca3af;
+}
+
+.ns-main-title {
+  font-size: 32px;
+  font-weight: 700;
+  color: #111827;
+  margin: 0;
+}
+
+.ns-content-section {
+  padding: 0 40px 120px;
+  background-color: #ffffff;
+  flex-grow: 1;
+}
+
+.ns-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-top: 40px;
+}
+
+.ns-tabs {
+  display: flex;
+  border-bottom: 2px solid #e5e7eb;
+  margin-bottom: 24px;
+}
+
+.ns-tab {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 16px 24px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #6b7280;
+  cursor: pointer;
+  position: relative;
+}
+
+.ns-tab.active {
+  color: #10b981;
+}
+
+.ns-tab.active::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background-color: #10b981;
+}
+
+.ns-form-container {
+  background-color: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 40px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.ns-form-row {
+  display: flex;
+  gap: 24px;
+  margin-bottom: 24px;
+}
+
+.ns-form-group {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.ns-form-group label {
+  font-size: 14px;
+  font-weight: 600;
+  color: #374151;
+}
+
+.required {
+  color: #ef4444;
+}
+
+.ns-input-wrapper,
+.ns-select-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.ns-input-wrapper.ns-has-error input,
+.ns-select-wrapper.ns-has-error select,
+.ns-phone-input.ns-has-error,
+.ns-registration-country.ns-has-error {
+  border-color: #ef4444 !important;
+}
+
+.ns-input-wrapper input,
+.ns-select-wrapper select {
+  width: 100%;
+  height: 48px;
+  padding: 0 16px;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  font-size: 14px;
+  color: #111827;
+  background-color: #ffffff;
+  outline: none;
+  transition: border-color 0.2s;
+  font-family: inherit;
+}
+
+.ns-input-wrapper input:focus,
+.ns-select-wrapper select:focus {
+  border-color: #10b981;
+}
+
+.ns-input-icon {
+  position: absolute;
+  left: 16px;
+  color: #9ca3af;
+  pointer-events: none;
+}
+
+.ns-select-wrapper select {
+  appearance: none;
+  padding-left: 40px;
+}
+
+.ns-select-icon {
+  position: absolute;
+  left: 16px;
+  color: #9ca3af;
+  pointer-events: none;
+}
+
+.ns-select-prefix-icon {
+  position: absolute;
+  right: 16px;
+  color: #9ca3af;
+  pointer-events: none;
+}
+
+.ns-select-wrapper select:has(~ .ns-select-prefix-icon) {
+  padding-right: 40px;
+}
+
+.ns-phone-input {
+  display: flex;
+  direction: ltr;
+  height: 48px;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  overflow: visible;
+  background-color: #ffffff;
+}
+
+.ns-phone-input input {
+  flex: 1;
+  border: none;
+  padding: 0 16px;
+  font-size: 14px;
+  color: #111827;
+  outline: none;
+  font-family: inherit;
+}
+
+.ns-country-code {
+  position: relative;
+  display: flex;
+  align-items: center;
+  min-width: 130px;
+  background-color: #f3f4f6;
+  border-right: 1px solid #d1d5db;
+  font-size: 14px;
+  color: #374151;
+  direction: ltr;
+}
+
+.ns-country-code-trigger {
+  width: 100%;
+  height: 100%;
+  padding: 0 10px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  background: transparent;
+  outline: none;
+  font-size: 14px;
+  color: #374151;
+  font-family: inherit;
+  cursor: pointer;
+  direction: ltr;
+  text-align: left;
+}
+
+.ns-country-current-text {
+  margin-left: auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 0;
+  direction: ltr;
+}
+
+.ns-country-current-code {
+  font-weight: 500;
+  direction: ltr;
+}
+
+.ns-country-chevron {
+  margin-left: 6px;
+  color: #6b7280;
+  transition: transform 0.2s ease;
+}
+
+.ns-country-chevron.open {
+  transform: rotate(180deg);
+}
+
+.ns-country-flag {
+  width: 24px;
+  height: 16px;
+  object-fit: cover;
+  border-radius: 2px;
+}
+
+.ns-country-code-menu {
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 0;
+  width: 290px;
+  max-height: 310px;
+  overflow-y: auto;
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.12);
+  z-index: 100;
+  padding: 6px;
+}
+
+.ns-registration-country {
+  position: relative;
+  height: 48px;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  background: #ffffff;
+  align-items: stretch;
+}
+
+.ns-registration-country-trigger {
+  width: 100%;
+  height: 100%;
+  border: none;
+  border-radius: 8px;
+  background: #ffffff;
+  padding: 0 12px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: #111827;
+  font-family: inherit;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.ns-country-code-trigger:focus,
+.ns-registration-country-trigger:focus {
+  border-color: #10b981;
+}
+
+.ns-registration-country:focus-within {
+  border-color: #10b981;
+}
+
+.ns-registration-country-placeholder {
+  color: #6b7280;
+  margin-left: auto;
+}
+
+.ns-registration-country-name {
+  margin-left: auto;
+  direction: rtl;
+}
+
+.ns-registration-country-menu {
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 0;
+  width: 100%;
+  max-height: 310px;
+  overflow-y: auto;
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.12);
+  z-index: 100;
+  padding: 6px;
+}
+
+.ns-country-code-option {
+  width: 100%;
+  border: none;
+  background: transparent;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 8px 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  text-align: left;
+  color: #111827;
+  font-family: inherit;
+}
+
+.ns-country-code-option:hover,
+.ns-country-code-option.active {
+  background-color: #f3f4f6;
+}
+
+.ns-country-option-text {
+  margin-left: auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  direction: rtl;
+}
+
+.ns-country-option-code {
+  direction: ltr;
+  font-weight: 500;
+}
+
+.ns-country-option-name {
+  direction: rtl;
+}
+
+[dir="rtl"] .ns-country-code-menu {
+  left: auto;
+  right: 0;
+}
+
+[dir="rtl"] .ns-registration-country-menu {
+  left: auto;
+  right: 0;
+}
+
+.ns-form-actions {
+  display: flex;
+  gap: 16px;
+  margin-top: 32px;
+}
+
+.ns-btn-submit {
+  flex: 1;
+  height: 48px;
+  background-color: #0A4D32;
+  color: #ffffff;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.2s;
+  font-family: inherit;
+}
+
+.ns-btn-submit:hover {
+  background-color: #059669;
+}
+
+.ns-btn-back {
+  flex: 1;
+  height: 48px;
+  background-color: #f3f4f6;
+  color: #374151;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.2s;
+  font-family: inherit;
+}
+
+.ns-btn-back:hover {
+  background-color: #e5e7eb;
+}
+
+/* RTL Support */
+[dir="rtl"] .ns-input-icon {
+  left: 16px;
+  right: auto;
+}
+
+[dir="rtl"] .ns-select-icon {
+  left: 16px;
+  right: auto;
+}
+
+[dir="rtl"] .ns-select-prefix-icon {
+  right: 16px;
+  left: auto;
+}
+
+[dir="rtl"] .ns-phone-input {
+  direction: ltr;
+}
+
+[dir="rtl"] .ns-country-code {
+  border-right: 1px solid #d1d5db;
+  border-left: none;
+}
+
+@media (max-width: 768px) {
+  .ns-form-row {
+    flex-direction: column;
+    gap: 16px;
+  }
+  
+  .ns-form-actions {
+    flex-direction: column;
+  }
+}

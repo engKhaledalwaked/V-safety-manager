@@ -1,0 +1,339 @@
+/* Reusing base styles from HomeStyles.css for header/footer */
+
+.login-page {
+    /* To override any container padding injected by layout */
+    width: 100vw !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow-x: hidden;
+    background-color: #ffffff;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.login-main-content {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 110px;
+    /* Offset for fixed header */
+}
+
+/* Container for constrained widths */
+.login-container {
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 0 24px;
+    width: 100%;
+}
+
+/* Container specifically for the top title to align with main header */
+.login-header-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 24px;
+    width: 100%;
+}
+
+/* Hero Section */
+.login-hero-section {
+    background-color: #f7fbfa;
+    padding: 30px 0 50px;
+    width: 100%;
+}
+
+.login-breadcrumbs {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    /* Align strictly to start (right in RTL) */
+    gap: 8px;
+    font-size: 13px;
+    color: #6b7280;
+    margin-bottom: 24px;
+}
+
+.login-breadcrumb-link {
+    cursor: pointer;
+    transition: color 0.2s;
+}
+
+.login-breadcrumb-link:hover {
+    color: #0A4D32;
+}
+
+.login-breadcrumb-separator {
+    color: #9ca3af;
+    display: flex;
+    align-items: center;
+}
+
+.login-breadcrumb-current {
+    color: #9ca3af;
+}
+
+.login-main-title {
+    font-size: 38px;
+    font-weight: 700;
+    color: #111827;
+    margin: 0;
+    text-align: right;
+}
+
+/* Content Section (Form Area) */
+.login-content-section {
+    padding: 60px 0 120px;
+}
+
+/* Login Form Specifics */
+.login-subtitle-form {
+    font-size: 16px;
+    color: #4b5563;
+    margin-top: 16px;
+    margin-bottom: 0px;
+    text-align: right;
+}
+
+.login-form-card {
+    background: #ffffff;
+    border: 1px solid #f1f3f5;
+    border-radius: 12px;
+    padding: 40px;
+    margin: 0 auto;
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);
+}
+
+.login-form-icon {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    border: 1px solid #e5e7eb;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #374151;
+    margin-bottom: 16px;
+}
+
+.login-form-card-title {
+    font-size: 22px;
+    font-weight: 700;
+    color: #111827;
+    margin: 0 0 32px 0;
+}
+
+.login-form {
+    width: 100%;
+}
+
+.form-group {
+    margin-bottom: 24px;
+    text-align: right;
+    width: 100%;
+}
+
+.form-group label {
+    display: block;
+    font-size: 14px;
+    color: #374151;
+    margin-bottom: 8px;
+    font-weight: 500;
+}
+
+.required-star {
+    color: #ef4444;
+}
+
+.form-input {
+    width: 100%;
+    height: 48px;
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+    padding: 0 16px;
+    font-size: 15px;
+    outline: none;
+    transition: all 0.2s;
+}
+
+.form-input:focus {
+    border-color: #0A4D32;
+    box-shadow: 0 0 0 3px rgba(10, 77, 50, 0.1);
+}
+
+.form-input.error {
+    border-color: #ef4444;
+}
+
+.error-text {
+    color: #ef4444;
+    font-size: 12px;
+    margin-top: 6px;
+    text-align: right;
+}
+
+.password-input-wrap {
+    position: relative;
+    width: 100%;
+}
+
+.password-field {
+    padding-left: 48px;
+    /* Room for the eye icon */
+}
+
+.toggle-password {
+    position: absolute;
+    left: 16px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: transparent;
+    border: none;
+    color: #9ca3af;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+}
+
+.forgot-password {
+    text-align: right;
+    font-size: 13px;
+    color: #6b7280;
+    margin-top: -12px;
+    margin-bottom: 24px;
+    cursor: pointer;
+}
+
+.forgot-password:hover {
+    color: #374151;
+    text-decoration: underline;
+}
+
+.login-submit-btn {
+    width: 100%;
+    height: 48px;
+    background-color: #0A4D32;
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.login-submit-btn:hover {
+    background-color: #083c27;
+}
+
+.login-new-account {
+    text-align: center;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.new-account-text {
+    font-size: 14px;
+    color: #6b7280;
+    margin: 0 0 8px 0;
+}
+
+.new-account-link {
+    font-size: 14px;
+    color: #111827;
+    font-weight: 600;
+    cursor: pointer;
+    text-decoration: underline;
+    text-underline-offset: 4px;
+}
+
+.new-account-link:hover {
+    color: #0A4D32;
+}
+
+.login-nafad-box {
+    max-width: 500px;
+    margin: 0 auto;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    padding: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    transition: all 0.2s;
+    background: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.02);
+}
+
+.login-nafad-box:hover {
+    border-color: #0A4D32;
+}
+
+.nafad-icon img {
+    height: 32px;
+}
+
+.nafad-content {
+    flex-grow: 1;
+    text-align: right;
+    padding-right: 16px;
+}
+
+.nafad-content h4 {
+    margin: 0 0 4px 0;
+    font-size: 16px;
+    color: #111827;
+    font-weight: 700;
+}
+
+.nafad-content p {
+    margin: 0;
+    font-size: 12px;
+    color: #6b7280;
+}
+
+.nafad-left-arrow {
+    background: #f3f4f6;
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-info-alert {
+    max-width: 500px;
+    margin: 24px auto 0;
+    background-color: #eff6ff;
+    /* blue-50 */
+    border-radius: 12px;
+    padding: 16px;
+    display: flex;
+    align-items: flex-start;
+    /* To keep icon at top if text wraps */
+}
+
+.info-alert-icon {
+    margin-left: 12px;
+    /* Margin to the left of the icon because text is to its left in DOM order with RTL */
+    flex-shrink: 0;
+    padding-top: 2px;
+}
+
+.info-alert-text {
+    font-size: 14px;
+    color: #1e40af;
+    /* blue-800 */
+    line-height: 1.6;
+    text-align: right;
+}

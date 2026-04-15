@@ -1,0 +1,359 @@
+/* SearchResultStyles.css */
+
+.search-result-page {
+    background-color: #fcfcfc;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.search-result-main {
+    flex-grow: 1;
+    padding: 2rem 0;
+}
+
+.search-result-page .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+/* Breadcrumbs */
+.breadcrumbs {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.875rem;
+    color: #6b7280;
+    /* Gray 500 */
+    margin-bottom: 1.5rem;
+}
+
+.breadcrumb-link {
+    cursor: pointer;
+}
+
+.breadcrumb-link:hover {
+    color: #111827;
+    /* Darker on hover */
+}
+
+.breadcrumb-separator {
+    display: flex;
+    align-items: center;
+    color: #9ca3af;
+}
+
+.breadcrumb-current {
+    color: #9ca3af;
+    /* Lighter gray for current page */
+}
+
+/* Page Titles */
+.page-titles {
+    margin-bottom: 2.5rem;
+}
+
+.page-main-title {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #111827;
+    margin: 0 0 0.5rem 0;
+}
+
+.page-subtitle {
+    font-size: 1rem;
+    color: #4b5563;
+    margin: 0;
+}
+
+/* Filter Card */
+.filter-card {
+    background-color: #ffffff;
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+    border: 1px solid #f3f4f6;
+    margin-bottom: 4rem;
+}
+
+.filter-card-header {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0.5rem;
+    margin-bottom: 1.5rem;
+    flex-direction: row-reverse;
+}
+
+.search-result-page[dir='ltr'] .filter-card-header {
+    flex-direction: row;
+}
+
+.filter-title {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #374151;
+    margin: 0;
+}
+
+.filter-icon {
+    color: #6b7280;
+    display: flex;
+    align-items: center;
+}
+
+/* Horizontal Form */
+.filter-horizontal-form {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+}
+
+.filter-inputs {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-grow: 1;
+    flex-wrap: wrap;
+}
+
+.filter-input-wrapper {
+    flex: 1;
+    min-width: 200px;
+}
+
+/* Override existing custom dropdown styles for this layout if needed */
+.filter-input-wrapper .custom-dropdown,
+.filter-input-wrapper .custom-datepicker {
+    width: 100%;
+}
+
+.filter-search-btn {
+    background: #1B8354;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 0 42px;
+    height: 40px;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.3s;
+    min-width: 120px;
+}
+
+.filter-search-btn:hover {
+    background: #0d5c3f;
+}
+
+/* Empty State */
+.empty-state {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4rem 0;
+    margin-top: 2rem;
+}
+
+.empty-message {
+    font-size: 1.125rem;
+    color: #4b5563;
+    font-weight: 500;
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+    .filter-horizontal-form {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .filter-inputs {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .filter-search-btn {
+        width: 100%;
+        margin-top: 0.5rem;
+    }
+}
+
+/* Centers Grid */
+.centers-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    /* 3 cards per row looks more like the spacious design */
+    gap: 1.5rem;
+    margin-bottom: 3rem;
+    width: 100%;
+}
+
+@media (max-width: 1024px) {
+    .centers-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 640px) {
+    .centers-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Center Card */
+.center-card {
+    background-color: #ffffff;
+    border-radius: 12px;
+    padding: 1.5rem;
+    /* Exactly match specific top/bottom padding */
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+    border: 1px solid #f3f4f6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.center-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+.center-card-logo {
+    width: 140px;
+    /* Much larger image just like the design */
+    height: 100px;
+    margin-bottom: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    /* Add radius if image is a square photo */
+    overflow: hidden;
+}
+
+.center-card-logo img {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: 100%;
+    /* Ensure it fills height specifically for photos, objects */
+    object-fit: contain;
+    /* Cover nicely for photos */
+    border-radius: 8px;
+    /* Smooth corners for the image itself */
+}
+
+.center-card-name {
+    font-size: 1.25rem;
+    /* Very large text */
+    font-weight: 700;
+    color: #111827;
+    margin: 0 0 1rem 0;
+}
+
+.center-card-details {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 0.5rem;
+    font-size: 0.85rem;
+    color: #4b5563;
+    margin-bottom: 2rem;
+    direction: rtl;
+    line-height: 1.6;
+    width: 100%;
+}
+
+.search-result-page[dir='ltr'] .center-card-details {
+    direction: ltr;
+}
+
+.center-card-details .entity-text {
+    flex: 1;
+    text-align: left;
+}
+
+.center-card-details .hours-text {
+    flex: 1;
+    text-align: right;
+    max-width: 120px;
+}
+
+.center-card-details .divider {
+    color: #d1d5db;
+    font-weight: 300;
+    margin: 0 0.25rem;
+}
+
+.center-card-badges {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+.badge-item {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 0.75rem;
+    padding: 0.75rem 1rem;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    /* Slightly more rounded */
+    font-size: 0.95rem;
+    /* Larger font */
+    color: #374151;
+    background-color: #ffffff;
+    direction: rtl;
+}
+
+.search-result-page[dir='ltr'] .badge-item {
+    justify-content: flex-start;
+    direction: ltr;
+}
+
+.badge-item svg {
+    color: #4b5563;
+    /* Gray icon color */
+    flex-shrink: 0;
+}
+
+.center-card-btn {
+    width: 100%;
+    background-color: #1B8354;
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    padding: 0.875rem 1rem;
+    /* Taller button */
+    font-size: 1.1rem;
+    /* Larger font */
+    font-weight: 700;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
+    transition: background-color 0.2s;
+    margin-top: auto;
+}
+
+.center-card-btn svg {
+    order: -1;
+}
+
+.search-result-page[dir='ltr'] .center-card-btn svg {
+    order: 1;
+}
+
+.center-card-btn:hover {
+    background-color: #0d5c3f;
+}

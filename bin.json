@@ -1,0 +1,2941 @@
+[
+  {
+    "bin": "400067",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "nan",
+    "issuerEn": "ARAB NATIONAL BANK",
+    "issuerKey": "arab_national_bank"
+  },
+  {
+    "bin": "404949",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "nan",
+    "issuerEn": "ARAB NATIONAL BANK",
+    "issuerKey": "arab_national_bank"
+  },
+  {
+    "bin": "420177",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "ARAB NATIONAL BANK",
+    "issuerKey": "arab_national_bank"
+  },
+  {
+    "bin": "451111",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "nan",
+    "issuerEn": "ARAB NATIONAL BANK",
+    "issuerKey": "arab_national_bank"
+  },
+  {
+    "bin": "455017",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "nan",
+    "issuerEn": "ARAB NATIONAL BANK",
+    "issuerKey": "arab_national_bank"
+  },
+  {
+    "bin": "455037",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "REWARDS",
+    "issuerEn": "ARAB NATIONAL BANK",
+    "issuerKey": "arab_national_bank"
+  },
+  {
+    "bin": "455036",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Arab National Bank",
+    "issuerKey": "arab_national_bank"
+  },
+  {
+    "bin": "455035",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "GOLD",
+    "issuerEn": "ARAB NATIONAL BANK",
+    "issuerKey": "arab_national_bank"
+  },
+  {
+    "bin": "466515",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "ARAB NATIONAL BANK",
+    "issuerKey": "arab_national_bank"
+  },
+  {
+    "bin": "473258",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "BUSINESS SIGNATURE",
+    "issuerEn": "ARAB NATIONAL BANK",
+    "issuerKey": "arab_national_bank"
+  },
+  {
+    "bin": "486096",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Arab National Bank",
+    "issuerKey": "arab_national_bank"
+  },
+  {
+    "bin": "486095",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Arab National Bank",
+    "issuerKey": "arab_national_bank"
+  },
+  {
+    "bin": "486094",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Arab National Bank",
+    "issuerKey": "arab_national_bank"
+  },
+  {
+    "bin": "491610",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "nan",
+    "issuerEn": "ARAB NATIONAL BANK",
+    "issuerKey": "arab_national_bank"
+  },
+  {
+    "bin": "517918",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "nan",
+    "issuerEn": "ARAB NATIONAL BANK",
+    "issuerKey": "arab_national_bank"
+  },
+  {
+    "bin": "520431",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "WORLD BLACK",
+    "issuerEn": "ARAB NATIONAL BANK",
+    "issuerKey": "arab_national_bank"
+  },
+  {
+    "bin": "520430",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "TITANIUM",
+    "issuerEn": "ARAB NATIONAL BANK",
+    "issuerKey": "arab_national_bank"
+  },
+  {
+    "bin": "536813",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "ARAB NATIONAL BANK",
+    "issuerKey": "arab_national_bank"
+  },
+  {
+    "bin": "542806",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "STANDARD",
+    "issuerEn": "ARAB NATIONAL BANK",
+    "issuerKey": "arab_national_bank"
+  },
+  {
+    "bin": "544017",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "GOLD",
+    "issuerEn": "ARAB NATIONAL BANK",
+    "issuerKey": "arab_national_bank"
+  },
+  {
+    "bin": "549400",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "nan",
+    "issuerEn": "ARAB NATIONAL BANK",
+    "issuerKey": "arab_national_bank"
+  },
+  {
+    "bin": "588848",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Arab National Bank",
+    "issuerKey": "arab_national_bank"
+  },
+  {
+    "bin": "968203",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Local",
+    "issuerEn": "Arab National Bank",
+    "issuerKey": "arab_national_bank"
+  },
+  {
+    "bin": "400399",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "404116",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "CLASSIC",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "412113",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "414026",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "CLASSIC",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "417490",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "417487",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "CLASSIC",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "422862",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "GOLD",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "430262",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "430260",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "430259",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "CLASSIC",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "430258",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "433347",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "483178",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "ULTRA HIGH NET WORTH",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "485042",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "SIGNATURE",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "485005",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "SIGNATURE",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "492146",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "492145",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "CLASSIC",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "491797",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "512464",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "GOLD",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "517720",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "STANDARD",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "519341",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "519310",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "STANDARD",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "518694",
+    "scheme": "MASTERCARD",
+    "cardType": "DEBIT",
+    "category": "PREPAID RELOADABLE",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "521031",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "523968",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "TITANIUM",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "523954",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "TITANIUM",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "524116",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "TITANIUM",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "523998",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "TITANIUM",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "524130",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "MasterCard",
+    "issuerEn": "National Commercial Bank",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "524197",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "TITANIUM",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "524388",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "525688",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "STANDARD",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "529415",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "MasterCard",
+    "issuerEn": "National Commercial Bank",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "532448",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "WORLD",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "532446",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "WORLD",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "532166",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "nan",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "533964",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "WORLD ELITE",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "535825",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "MasterCard",
+    "issuerEn": "National Commercial Bank",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "534186",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "GOLD",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "536369",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "GOLD",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "539035",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "STANDARD",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "539034",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "GOLD",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "540613",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "GOLD",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "541891",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "STANDARD",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "543085",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "MasterCard",
+    "issuerEn": "National Commercial Bank",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "544217",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "GOLD",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "544744",
+    "scheme": "MASTERCARD",
+    "cardType": "DEBIT",
+    "category": "PREPAID RELOADABLE",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "545205",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "WORLD",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "546631",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "WORLD",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "546336",
+    "scheme": "MASTERCARD",
+    "cardType": "DEBIT",
+    "category": "PREPAID RELOADABLE",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "548255",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "GOLD",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "549760",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "MasterCard",
+    "issuerEn": "National Commercial Bank",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "549699",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "549954",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "STANDARD",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "552075",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "552077",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "554180",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "MasterCard",
+    "issuerEn": "National Commercial Bank",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "556676",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "CORPORATE",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "556675",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "CORPORATE",
+    "issuerEn": "NATIONAL COMMERCIAL BANK",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "588850",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "MasterCard",
+    "issuerEn": "National Commercial Bank",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "968202",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Local",
+    "issuerEn": "National Commercial Bank",
+    "issuerKey": "national_commercial_bank"
+  },
+  {
+    "bin": "400795",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "BUSINESS SIGNATURE",
+    "issuerEn": "AL BILAD BANK",
+    "issuerKey": "al_bilad_bank"
+  },
+  {
+    "bin": "417633",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Al Bilad Bank",
+    "issuerKey": "al_bilad_bank"
+  },
+  {
+    "bin": "424262",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "AL BILAD BANK",
+    "issuerKey": "al_bilad_bank"
+  },
+  {
+    "bin": "424261",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "GOLD",
+    "issuerEn": "AL BILAD BANK",
+    "issuerKey": "al_bilad_bank"
+  },
+  {
+    "bin": "424260",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "CLASSIC",
+    "issuerEn": "AL BILAD BANK",
+    "issuerKey": "al_bilad_bank"
+  },
+  {
+    "bin": "428334",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "PREPAID",
+    "issuerEn": "AL BILAD BANK",
+    "issuerKey": "al_bilad_bank"
+  },
+  {
+    "bin": "433072",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "PREPAID",
+    "issuerEn": "AL BILAD BANK",
+    "issuerKey": "al_bilad_bank"
+  },
+  {
+    "bin": "446393",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Al Bilad Bank",
+    "issuerKey": "al_bilad_bank"
+  },
+  {
+    "bin": "446392",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "SIGNATURE",
+    "issuerEn": "AL BILAD BANK",
+    "issuerKey": "al_bilad_bank"
+  },
+  {
+    "bin": "457796",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "INFINITE",
+    "issuerEn": "AL BILAD BANK",
+    "issuerKey": "al_bilad_bank"
+  },
+  {
+    "bin": "468543",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Al Bilad Bank",
+    "issuerKey": "al_bilad_bank"
+  },
+  {
+    "bin": "468542",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Al Bilad Bank",
+    "issuerKey": "al_bilad_bank"
+  },
+  {
+    "bin": "468541",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Al Bilad Bank",
+    "issuerKey": "al_bilad_bank"
+  },
+  {
+    "bin": "468540",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Al Bilad Bank",
+    "issuerKey": "al_bilad_bank"
+  },
+  {
+    "bin": "475153",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "BUSINESS",
+    "issuerEn": "AL BILAD BANK",
+    "issuerKey": "al_bilad_bank"
+  },
+  {
+    "bin": "475109",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PURCHASING",
+    "issuerEn": "AL BILAD BANK",
+    "issuerKey": "al_bilad_bank"
+  },
+  {
+    "bin": "475100",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "BUSINESS SIGNATURE",
+    "issuerEn": "AL BILAD BANK",
+    "issuerKey": "al_bilad_bank"
+  },
+  {
+    "bin": "475078",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "CLASSIC",
+    "issuerEn": "AL BILAD BANK",
+    "issuerKey": "al_bilad_bank"
+  },
+  {
+    "bin": "481207",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "CLASSIC",
+    "issuerEn": "AL BILAD BANK",
+    "issuerKey": "al_bilad_bank"
+  },
+  {
+    "bin": "481206",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "AL BILAD BANK",
+    "issuerKey": "al_bilad_bank"
+  },
+  {
+    "bin": "636120",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Local",
+    "issuerEn": "Al Bilad Bank",
+    "issuerKey": "al_bilad_bank"
+  },
+  {
+    "bin": "968201",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Local",
+    "issuerEn": "Al Bilad Bank",
+    "issuerKey": "al_bilad_bank"
+  },
+  {
+    "bin": "428335",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "PREPAID",
+    "issuerEn": "Al Bilad Bank",
+    "issuerKey": "al_bilad_bank"
+  },
+  {
+    "bin": "401978",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "PREPAID",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "401884",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "INFINITE",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "401883",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "SIGNATURE",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "401812",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "425871",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "INFINITE",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "428275",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "REWARDS",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "428274",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "CLASSIC",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "437980",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "SIGNATURE",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "437979",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "SIGNATURE",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "437978",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "ULTRA HIGH NET WORTH",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "437977",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "SIGNATURE",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "437976",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "SIGNATURE",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "437975",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "INFINITE",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "437974",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "444445",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "ELECTRON",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "450824",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "REWARDS",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "457998",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "CLASSIC",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "459800",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "459588",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "INFINITE",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "459583",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "SIGNATURE",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "473899",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "475558",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "SIGNATURE",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "496655",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "REWARDS",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "512727",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "WORLD ELITE",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "512691",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "CORPORATE",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "517724",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "STANDARD",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "524148",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "BUSINESS",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "542747",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "STANDARD",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "547042",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "GOLD",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "552012",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "552360",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "WORLD",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "421141",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "440647",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "440795",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "446404",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "457997",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+
+  {
+    "bin": "457865",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "474491",
+    "scheme": "Mada",
+    "cardType": "CREDIT",
+    "category": "Visa",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "588845",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "968208",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Local",
+    "issuerEn": "Al Bank Al Saudi Al Fransi",
+    "issuerKey": "al_bank_al_saudi_al_fransi"
+  },
+  {
+    "bin": "402112",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "BUSINESS",
+    "issuerEn": "SAMBA FINANCIAL GROUP",
+    "issuerKey": "samba_financial_group"
+  },
+  {
+    "bin": "402106",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "BUSINESS",
+    "issuerEn": "SAMBA FINANCIAL GROUP",
+    "issuerKey": "samba_financial_group"
+  },
+  {
+    "bin": "433988",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "INFINITE",
+    "issuerEn": "SAMBA FINANCIAL GROUP",
+    "issuerKey": "samba_financial_group"
+  },
+  {
+    "bin": "433987",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "SAMBA FINANCIAL GROUP",
+    "issuerKey": "samba_financial_group"
+  },
+  {
+    "bin": "454335",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "SIGNATURE",
+    "issuerEn": "SAMBA FINANCIAL GROUP",
+    "issuerKey": "samba_financial_group"
+  },
+
+  {
+    "bin": "450766",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "CLASSIC",
+    "issuerEn": "SAMBA FINANCIAL GROUP",
+    "issuerKey": "samba_financial_group"
+  },
+  {
+    "bin": "454336",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "GOLD",
+    "issuerEn": "SAMBA FINANCIAL GROUP",
+    "issuerKey": "samba_financial_group"
+  },
+  {
+    "bin": "455020",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "nan",
+    "issuerEn": "SAMBA FINANCIAL GROUP",
+    "issuerKey": "samba_financial_group"
+  },
+  {
+    "bin": "459242",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "ULTRA HIGH NET WORTH",
+    "issuerEn": "SAMBA FINANCIAL GROUP",
+    "issuerKey": "samba_financial_group"
+  },
+  {
+    "bin": "477983",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "nan",
+    "issuerEn": "SAMBA FINANCIAL GROUP",
+    "issuerKey": "samba_financial_group"
+  },
+  {
+    "bin": "496649",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "SAMBA FINANCIAL GROUP",
+    "issuerKey": "samba_financial_group"
+  },
+  {
+    "bin": "523970",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "TITANIUM",
+    "issuerEn": "SAMBA FINANCIAL GROUP",
+    "issuerKey": "samba_financial_group"
+  },
+  {
+    "bin": "528479",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "SAMBA FINANCIAL GROUP",
+    "issuerKey": "samba_financial_group"
+  },
+  {
+    "bin": "537799",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "WORLD ELITE",
+    "issuerEn": "SAMBA FINANCIAL GROUP",
+    "issuerKey": "samba_financial_group"
+  },
+  {
+    "bin": "540000",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "GOLD",
+    "issuerEn": "SAMBA FINANCIAL GROUP",
+    "issuerKey": "samba_financial_group"
+  },
+  {
+    "bin": "540902",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "SAMBA FINANCIAL GROUP",
+    "issuerKey": "samba_financial_group"
+  },
+  {
+    "bin": "542805",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "nan",
+    "issuerEn": "SAMBA FINANCIAL GROUP",
+    "issuerKey": "samba_financial_group"
+  },
+  {
+    "bin": "544229",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "STANDARD",
+    "issuerEn": "SAMBA FINANCIAL GROUP",
+    "issuerKey": "samba_financial_group"
+  },
+
+  {
+    "bin": "543683",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "TITANIUM",
+    "issuerEn": "SAMBA FINANCIAL GROUP",
+    "issuerKey": "samba_financial_group"
+  },
+  {
+    "bin": "544873",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "TITANIUM",
+    "issuerEn": "SAMBA FINANCIAL GROUP",
+    "issuerKey": "samba_financial_group"
+  },
+  {
+    "bin": "552250",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "WORLD",
+    "issuerEn": "SAMBA FINANCIAL GROUP",
+    "issuerKey": "samba_financial_group"
+  },
+  {
+    "bin": "552089",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "SAMBA FINANCIAL GROUP",
+    "issuerKey": "samba_financial_group"
+  },
+  {
+    "bin": "406136",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Saudi Investment Bank",
+    "issuerKey": "saudi_investment_bank"
+  },
+  {
+    "bin": "440631",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "GOLD",
+    "issuerEn": "SAUDI INVESTMENT BANK",
+    "issuerKey": "saudi_investment_bank"
+  },
+  {
+    "bin": "440630",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "ELECTRON",
+    "issuerEn": "SAUDI INVESTMENT BANK",
+    "issuerKey": "saudi_investment_bank"
+  },
+  {
+    "bin": "440629",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "CLASSIC",
+    "issuerEn": "SAUDI INVESTMENT BANK",
+    "issuerKey": "saudi_investment_bank"
+  },
+  {
+    "bin": "457843",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "ULTRA HIGH NET WORTH",
+    "issuerEn": "SAUDI INVESTMENT BANK",
+    "issuerKey": "saudi_investment_bank"
+  },
+  {
+    "bin": "457842",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "SAUDI INVESTMENT BANK",
+    "issuerKey": "saudi_investment_bank"
+  },
+  {
+    "bin": "457841",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "REWARDS",
+    "issuerEn": "SAUDI INVESTMENT BANK",
+    "issuerKey": "saudi_investment_bank"
+  },
+  {
+    "bin": "457840",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "CLASSIC",
+    "issuerEn": "SAUDI INVESTMENT BANK",
+    "issuerKey": "saudi_investment_bank"
+  },
+  {
+    "bin": "469616",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "nan",
+    "issuerEn": "SAUDI INVESTMENT BANK",
+    "issuerKey": "saudi_investment_bank"
+  },
+  {
+    "bin": "478296",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "PREPAID",
+    "issuerEn": "SAUDI INVESTMENT BANK",
+    "issuerKey": "saudi_investment_bank"
+  },
+  {
+    "bin": "478295",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "PREPAID",
+    "issuerEn": "SAUDI INVESTMENT BANK",
+    "issuerKey": "saudi_investment_bank"
+  },
+
+  {
+    "bin": "476815",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "SIGNATURE",
+    "issuerEn": "SAUDI INVESTMENT BANK",
+    "issuerKey": "saudi_investment_bank"
+  },
+  {
+    "bin": "483012",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Saudi Investment Bank",
+    "issuerKey": "saudi_investment_bank"
+  },
+  {
+    "bin": "483011",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Saudi Investment Bank",
+    "issuerKey": "saudi_investment_bank"
+  },
+  {
+    "bin": "483010",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Saudi Investment Bank",
+    "issuerKey": "saudi_investment_bank"
+  },
+  {
+    "bin": "483009",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "nan",
+    "issuerEn": "SAUDI INVESTMENT BANK",
+    "issuerKey": "saudi_investment_bank"
+  },
+  {
+    "bin": "524205",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "TITANIUM",
+    "issuerEn": "SAUDI INVESTMENT BANK",
+    "issuerKey": "saudi_investment_bank"
+  },
+  {
+    "bin": "529298",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "SAUDI INVESTMENT BANK",
+    "issuerKey": "saudi_investment_bank"
+  },
+  {
+    "bin": "542373",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "STANDARD",
+    "issuerEn": "SAUDI INVESTMENT BANK",
+    "issuerKey": "saudi_investment_bank"
+  },
+  {
+    "bin": "552384",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "WORLD",
+    "issuerEn": "SAUDI INVESTMENT BANK",
+    "issuerKey": "saudi_investment_bank"
+  },
+  {
+    "bin": "589206",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "MasterCard",
+    "issuerEn": "Saudi Investment Bank",
+    "issuerKey": "saudi_investment_bank"
+  },
+  {
+    "bin": "968207",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Local",
+    "issuerEn": "Saudi Investment Bank",
+    "issuerKey": "saudi_investment_bank"
+  },
+  {
+    "bin": "406485",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "nan",
+    "issuerEn": "SAUDI HOLLANDI BANK",
+    "issuerKey": "saudi_hollandi_bank"
+  },
+  {
+    "bin": "412518",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "SAUDI HOLLANDI BANK",
+    "issuerKey": "saudi_hollandi_bank"
+  },
+
+  {
+    "bin": "411167",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "GOLD",
+    "issuerEn": "SAUDI HOLLANDI BANK",
+    "issuerKey": "saudi_hollandi_bank"
+  },
+  {
+    "bin": "411166",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "CLASSIC",
+    "issuerEn": "SAUDI HOLLANDI BANK",
+    "issuerKey": "saudi_hollandi_bank"
+  },
+  {
+    "bin": "416042",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "GOLD",
+    "issuerEn": "SAUDI HOLLANDI BANK",
+    "issuerKey": "saudi_hollandi_bank"
+  },
+  {
+    "bin": "416041",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "CLASSIC",
+    "issuerEn": "SAUDI HOLLANDI BANK",
+    "issuerKey": "saudi_hollandi_bank"
+  },
+  {
+    "bin": "427739",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "CLASSIC",
+    "issuerEn": "SAUDI HOLLANDI BANK",
+    "issuerKey": "saudi_hollandi_bank"
+  },
+  {
+    "bin": "427733",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "GOLD",
+    "issuerEn": "SAUDI HOLLANDI BANK",
+    "issuerKey": "saudi_hollandi_bank"
+  },
+  {
+    "bin": "454660",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "SAUDI HOLLANDI BANK",
+    "issuerKey": "saudi_hollandi_bank"
+  },
+  {
+    "bin": "490745",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "nan",
+    "issuerEn": "SAUDI HOLLANDI BANK",
+    "issuerKey": "saudi_hollandi_bank"
+  },
+  {
+    "bin": "493428",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "ELECTRON",
+    "issuerEn": "SAUDI HOLLANDI BANK",
+    "issuerKey": "saudi_hollandi_bank"
+  },
+  {
+    "bin": "548349",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "STANDARD",
+    "issuerEn": "SAUDI HOLLANDI BANK",
+    "issuerKey": "saudi_hollandi_bank"
+  },
+  {
+    "bin": "558705",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "nan",
+    "issuerEn": "SAUDI HOLLANDI BANK",
+    "issuerKey": "saudi_hollandi_bank"
+  },
+  {
+    "bin": "406487",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "nan",
+    "issuerEn": "BANK AL JAZIRA",
+    "issuerKey": "bank_al_jazira"
+  },
+  {
+    "bin": "414090",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "GOLD",
+    "issuerEn": "BANK AL JAZIRA",
+    "issuerKey": "bank_al_jazira"
+  },
+  {
+    "bin": "414841",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "ULTRA HIGH NET WORTH",
+    "issuerEn": "BANK AL JAZIRA",
+    "issuerKey": "bank_al_jazira"
+  },
+  {
+    "bin": "421051",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "nan",
+    "issuerEn": "BANK AL JAZIRA",
+    "issuerKey": "bank_al_jazira"
+  },
+  {
+    "bin": "428375",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "BANK AL JAZIRA",
+    "issuerKey": "bank_al_jazira"
+  },
+  {
+    "bin": "428374",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "CLASSIC",
+    "issuerEn": "BANK AL JAZIRA",
+    "issuerKey": "bank_al_jazira"
+  },
+  {
+    "bin": "440533",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Bank Al-Jazira",
+    "issuerKey": "bank_al_jazira"
+  },
+  {
+    "bin": "440532",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "BANK AL JAZIRA",
+    "issuerKey": "bank_al_jazira"
+  },
+  {
+    "bin": "445564",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Bank Al-Jazira",
+    "issuerKey": "bank_al_jazira"
+  },
+  {
+    "bin": "473828",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "SIGNATURE",
+    "issuerEn": "BANK AL JAZIRA",
+    "issuerKey": "bank_al_jazira"
+  },
+  {
+    "bin": "473827",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "INFINITE",
+    "issuerEn": "BANK AL JAZIRA",
+    "issuerKey": "bank_al_jazira"
+  },
+  {
+    "bin": "473826",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "BANK AL JAZIRA",
+    "issuerKey": "bank_al_jazira"
+  },
+  {
+    "bin": "473825",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "BANK AL JAZIRA",
+    "issuerKey": "bank_al_jazira"
+  },
+  {
+    "bin": "489319",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Bank Al-Jazira",
+    "issuerKey": "bank_al_jazira"
+  },
+  {
+    "bin": "489318",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Bank Al-Jazira",
+    "issuerKey": "bank_al_jazira"
+  },
+  {
+    "bin": "489317",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "BUSINESS SIGNATURE",
+    "issuerEn": "BANK AL JAZIRA",
+    "issuerKey": "bank_al_jazira"
+  },
+  {
+    "bin": "504300",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Bank Al-Jazira",
+    "issuerKey": "bank_al_jazira"
+  },
+  {
+    "bin": "968211",
+    "scheme": "Mada",
+    "cardType": null,
+    "category": "Local",
+    "issuerEn": "Bank Al-Jazira",
+    "issuerKey": "bank_al_jazira"
+  },
+  {
+    "bin": "517532",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "STANDARD",
+    "issuerEn": "Bank Al-Jazira",
+    "issuerKey": "bank_al_jazira"
+  },
+  {
+    "bin": "523041",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "nan",
+    "issuerEn": "Bank Al-Jazira",
+    "issuerKey": "bank_al_jazira"
+  },
+  {
+    "bin": "524236",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "TITANIUM",
+    "issuerEn": "Bank Al-Jazira",
+    "issuerKey": "bank_al_jazira"
+  },
+  {
+    "bin": "546924",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "WORLD ELITE",
+    "issuerEn": "Bank Al-Jazira",
+    "issuerKey": "bank_al_jazira"
+  },
+  {
+    "bin": "550002",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "TITANIUM",
+    "issuerEn": "Bank Al-Jazira",
+    "issuerKey": "bank_al_jazira"
+  },
+  {
+    "bin": "407395",
+    "scheme": "Mada",
+    "cardType": "CREDIT",
+    "category": "Visa",
+    "issuerEn": "INMA Bank",
+    "issuerKey": "inma_bank"
+  },
+  {
+    "bin": "407197",
+    "scheme": "Mada",
+    "cardType": "CREDIT",
+    "category": "Visa",
+    "issuerEn": "INMA Bank",
+    "issuerKey": "inma_bank"
+  },
+  {
+    "bin": "412565",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "INMA Bank",
+    "issuerKey": "inma_bank"
+  },
+  {
+    "bin": "428679",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "INMA Bank",
+    "issuerKey": "inma_bank"
+  },
+  {
+    "bin": "428678",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "INFINITE",
+    "issuerEn": "INMA Bank",
+    "issuerKey": "inma_bank"
+  },
+  {
+    "bin": "428673",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "INMA Bank",
+    "issuerKey": "inma_bank"
+  },
+  {
+    "bin": "428672",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "INMA Bank",
+    "issuerKey": "inma_bank"
+  },
+  {
+    "bin": "428671",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "INMA Bank",
+    "issuerKey": "inma_bank"
+  },
+  {
+    "bin": "432328",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "INMA Bank",
+    "issuerKey": "inma_bank"
+  },
+  {
+    "bin": "432327",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "GOLD",
+    "issuerEn": "INMA Bank",
+    "issuerKey": "inma_bank"
+  },
+  {
+    "bin": "432326",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "CLASSIC",
+    "issuerEn": "INMA Bank",
+    "issuerKey": "inma_bank"
+  },
+  {
+    "bin": "434107",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "INMA Bank",
+    "issuerKey": "inma_bank"
+  },
+  {
+    "bin": "446673",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "SIGNATURE",
+    "issuerEn": "INMA Bank",
+    "issuerKey": "inma_bank"
+  },
+  {
+    "bin": "446672",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "INMA Bank",
+    "issuerKey": "inma_bank"
+  },
+  {
+    "bin": "458270",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "nan",
+    "issuerEn": "INMA Bank",
+    "issuerKey": "inma_bank"
+  },
+  {
+    "bin": "483432",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "CLASSIC",
+    "issuerEn": "INMA Bank",
+    "issuerKey": "inma_bank"
+  },
+  {
+    "bin": "529178",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "STANDARD",
+    "issuerEn": "INMA Bank",
+    "issuerKey": "inma_bank"
+  },
+  {
+    "bin": "529157",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "STANDARD",
+    "issuerEn": "INMA Bank",
+    "issuerKey": "inma_bank"
+  },
+  {
+    "bin": "530481",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "INMA Bank",
+    "issuerKey": "inma_bank"
+  },
+  {
+    "bin": "543357",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "MasterCard",
+    "issuerEn": "INMA Bank",
+    "issuerKey": "inma_bank"
+  },
+  {
+    "bin": "547026",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "GOLD",
+    "issuerEn": "INMA Bank",
+    "issuerKey": "inma_bank"
+  },
+  {
+    "bin": "552363",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "WORLD",
+    "issuerEn": "INMA Bank",
+    "issuerKey": "inma_bank"
+  },
+  {
+    "bin": "968206",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Local",
+    "issuerEn": "INMA Bank",
+    "issuerKey": "inma_bank"
+  },
+  {
+    "bin": "42689700",
+    "scheme": "Mada",
+    "cardType": null,
+    "category": "Local",
+    "issuerEn": "INMA Bank",
+    "issuerKey": "inma_bank"
+  },
+  {
+    "bin": "513213",
+    "scheme": "Mada",
+    "cardType": "CREDIT",
+    "category": "MasterCard",
+    "issuerEn": "Riyadh Bank",
+    "issuerKey": "riyadh_bank"
+  },
+  {
+    "bin": "520058",
+    "scheme": "Mada",
+    "cardType": "CREDIT",
+    "category": "MasterCard",
+    "issuerEn": "Riyadh Bank",
+    "issuerKey": "riyadh_bank"
+  },
+  {
+    "bin": "524514",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "MasterCard",
+    "issuerEn": "Riyadh Bank",
+    "issuerKey": "riyadh_bank"
+  },
+  {
+    "bin": "529741",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "MasterCard",
+    "issuerEn": "Riyadh Bank",
+    "issuerKey": "riyadh_bank"
+  },
+  {
+    "bin": "537767",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "MasterCard",
+    "issuerEn": "Riyadh Bank",
+    "issuerKey": "riyadh_bank"
+  },
+
+  {
+    "bin": "536023",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "MasterCard",
+    "issuerEn": "Riyadh Bank",
+    "issuerKey": "riyadh_bank"
+  },
+  {
+    "bin": "535989",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "MasterCard",
+    "issuerEn": "Riyadh Bank",
+    "issuerKey": "riyadh_bank"
+  },
+  {
+    "bin": "558563",
+    "scheme": "Mada",
+    "cardType": "CREDIT",
+    "category": "MasterCard",
+    "issuerEn": "Riyadh Bank",
+    "issuerKey": "riyadh_bank"
+  },
+  {
+    "bin": "968209",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Local",
+    "issuerEn": "Riyadh Bank",
+    "issuerKey": "riyadh_bank"
+  },
+  {
+    "bin": "435240",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "nan",
+    "issuerEn": "Riyadh Bank",
+    "issuerKey": "riyadh_bank"
+  },
+
+  {
+    "bin": "433952",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "nan",
+    "issuerEn": "Riyadh Bank",
+    "issuerKey": "riyadh_bank"
+  },
+  {
+    "bin": "454684",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "CLASSIC",
+    "issuerEn": "Riyadh Bank",
+    "issuerKey": "riyadh_bank"
+  },
+  {
+    "bin": "454683",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "GOLD",
+    "issuerEn": "Riyadh Bank",
+    "issuerKey": "riyadh_bank"
+  },
+
+  {
+    "bin": "448509",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PURCHASING",
+    "issuerEn": "Riyadh Bank",
+    "issuerKey": "riyadh_bank"
+  },
+  {
+    "bin": "457927",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "ELECTRON",
+    "issuerEn": "Riyadh Bank",
+    "issuerKey": "riyadh_bank"
+  },
+  {
+    "bin": "490917",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "nan",
+    "issuerEn": "Riyadh Bank",
+    "issuerKey": "riyadh_bank"
+  },
+  {
+    "bin": "517531",
+    "scheme": "MASTERCARD",
+    "cardType": "DEBIT",
+    "category": "TITANIUM",
+    "issuerEn": "Riyadh Bank",
+    "issuerKey": "riyadh_bank"
+  },
+  {
+    "bin": "514932",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "Riyadh Bank",
+    "issuerKey": "riyadh_bank"
+  },
+  {
+    "bin": "520090",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "CORPORATE",
+    "issuerEn": "Riyadh Bank",
+    "issuerKey": "riyadh_bank"
+  },
+  {
+    "bin": "520089",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "GOLD",
+    "issuerEn": "Riyadh Bank",
+    "issuerKey": "riyadh_bank"
+  },
+  {
+    "bin": "539859",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "STANDARD",
+    "issuerEn": "Riyadh Bank",
+    "issuerKey": "riyadh_bank"
+  },
+  {
+    "bin": "541988",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "GOLD",
+    "issuerEn": "Riyadh Bank",
+    "issuerKey": "riyadh_bank"
+  },
+
+  {
+    "bin": "541802",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "WORLD",
+    "issuerEn": "Riyadh Bank",
+    "issuerKey": "riyadh_bank"
+  },
+  {
+    "bin": "541679",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "STANDARD",
+    "issuerEn": "Riyadh Bank",
+    "issuerKey": "riyadh_bank"
+  },
+  {
+    "bin": "545855",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "nan",
+    "issuerEn": "Riyadh Bank",
+    "issuerKey": "riyadh_bank"
+  },
+  {
+    "bin": "548323",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "GOLD",
+    "issuerEn": "Riyadh Bank",
+    "issuerKey": "riyadh_bank"
+  },
+  {
+    "bin": "548322",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "STANDARD",
+    "issuerEn": "Riyadh Bank",
+    "issuerKey": "riyadh_bank"
+  },
+  {
+    "bin": "559322",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "WORLD ELITE",
+    "issuerEn": "Riyadh Bank",
+    "issuerKey": "riyadh_bank"
+  },
+  {
+    "bin": "414478",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "CLASSIC",
+    "issuerEn": "SAUDI BRITISH BANK",
+    "issuerKey": "saudi_british_bank"
+  },
+  {
+    "bin": "422819",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Saudi British Bank",
+    "issuerKey": "saudi_british_bank"
+  },
+  {
+    "bin": "422818",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Saudi British Bank",
+    "issuerKey": "saudi_british_bank"
+  },
+  {
+    "bin": "422817",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Saudi British Bank",
+    "issuerKey": "saudi_british_bank"
+  },
+  {
+    "bin": "428331",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Saudi British Bank",
+    "issuerKey": "saudi_british_bank"
+  },
+
+  {
+    "bin": "427222",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "SIGNATURE",
+    "issuerEn": "SAUDI BRITISH BANK",
+    "issuerKey": "saudi_british_bank"
+  },
+  {
+    "bin": "433786",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "SAUDI BRITISH BANK",
+    "issuerKey": "saudi_british_bank"
+  },
+  {
+    "bin": "455389",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "CLASSIC",
+    "issuerEn": "SAUDI BRITISH BANK",
+    "issuerKey": "saudi_british_bank"
+  },
+  {
+    "bin": "455340",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "CLASSIC",
+    "issuerEn": "SAUDI BRITISH BANK",
+    "issuerKey": "saudi_british_bank"
+  },
+  {
+    "bin": "455310",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "CLASSIC",
+    "issuerEn": "SAUDI BRITISH BANK",
+    "issuerKey": "saudi_british_bank"
+  },
+  {
+    "bin": "455058",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "GOLD",
+    "issuerEn": "SAUDI BRITISH BANK",
+    "issuerKey": "saudi_british_bank"
+  },
+  {
+    "bin": "456893",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "SAUDI BRITISH BANK",
+    "issuerKey": "saudi_british_bank"
+  },
+  {
+    "bin": "456891",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "REWARDS",
+    "issuerEn": "SAUDI BRITISH BANK",
+    "issuerKey": "saudi_british_bank"
+  },
+  {
+    "bin": "490160",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "GOLD",
+    "issuerEn": "SAUDI BRITISH BANK",
+    "issuerKey": "saudi_british_bank"
+  },
+  {
+    "bin": "512060",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "WORLD REWARDS",
+    "issuerEn": "SAUDI BRITISH BANK",
+    "issuerKey": "saudi_british_bank"
+  },
+  {
+    "bin": "540236",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "TITANIUM",
+    "issuerEn": "SAUDI BRITISH BANK",
+    "issuerKey": "saudi_british_bank"
+  },
+  {
+    "bin": "541653",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "STANDARD",
+    "issuerEn": "SAUDI BRITISH BANK",
+    "issuerKey": "saudi_british_bank"
+  },
+  {
+    "bin": "543199",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "TITANIUM",
+    "issuerEn": "SAUDI BRITISH BANK",
+    "issuerKey": "saudi_british_bank"
+  },
+  {
+    "bin": "545297",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "nan",
+    "issuerEn": "SAUDI BRITISH BANK",
+    "issuerKey": "saudi_british_bank"
+  },
+  {
+    "bin": "546757",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "GOLD",
+    "issuerEn": "SAUDI BRITISH BANK",
+    "issuerKey": "saudi_british_bank"
+  },
+  {
+    "bin": "546756",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "GOLD",
+    "issuerEn": "SAUDI BRITISH BANK",
+    "issuerKey": "saudi_british_bank"
+  },
+  {
+    "bin": "546755",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "STANDARD",
+    "issuerEn": "SAUDI BRITISH BANK",
+    "issuerKey": "saudi_british_bank"
+  },
+  {
+    "bin": "547645",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "EXECUTIVE",
+    "issuerEn": "SAUDI BRITISH BANK",
+    "issuerKey": "saudi_british_bank"
+  },
+  {
+    "bin": "549799",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "nan",
+    "issuerEn": "SAUDI BRITISH BANK",
+    "issuerKey": "saudi_british_bank"
+  },
+  {
+    "bin": "605141",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "MasterCard",
+    "issuerEn": "Saudi British Bank",
+    "issuerKey": "saudi_british_bank"
+  },
+  {
+    "bin": "968204",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Local",
+    "issuerEn": "Saudi British Bank",
+    "issuerKey": "saudi_british_bank"
+  },
+  {
+    "bin": "419593",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Gulf International Bank",
+    "issuerKey": "gulf_international_bank"
+  },
+  {
+    "bin": "439954",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "Gulf International Bank",
+    "issuerKey": "gulf_international_bank"
+  },
+  {
+    "bin": "439955",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "MEEM BANK",
+    "issuerKey": "meem_bank"
+  },
+  {
+    "bin": "454887",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "nan",
+    "issuerEn": "Barraq Finance Company",
+    "issuerKey": "barraq_finance_company"
+  },
+  {
+    "bin": "522139",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "STANDARD",
+    "issuerEn": "ALAWWAL BANK",
+    "issuerKey": "alawwal_bank"
+  },
+  {
+    "bin": "524165",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "TITANIUM",
+    "issuerEn": "ALAWWAL BANK",
+    "issuerKey": "alawwal_bank"
+  },
+  {
+    "bin": "530843",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "ALAWWAL BANK",
+    "issuerKey": "alawwal_bank"
+  },
+  {
+    "bin": "533172",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "CORPORATE",
+    "issuerEn": "ALAWWAL BANK",
+    "issuerKey": "alawwal_bank"
+  },
+  {
+    "bin": "539931",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "STANDARD",
+    "issuerEn": "ALAWWAL BANK",
+    "issuerKey": "alawwal_bank"
+  },
+  {
+    "bin": "542008",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "TITANIUM",
+    "issuerEn": "ALAWWAL BANK",
+    "issuerKey": "alawwal_bank"
+  },
+  {
+    "bin": "543408",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "ALAWWAL BANK",
+    "issuerKey": "alawwal_bank"
+  },
+  {
+    "bin": "548979",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "STANDARD",
+    "issuerEn": "ALAWWAL BANK",
+    "issuerKey": "alawwal_bank"
+  },
+  {
+    "bin": "548350",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "TITANIUM",
+    "issuerEn": "ALAWWAL BANK",
+    "issuerKey": "alawwal_bank"
+  },
+  {
+    "bin": "552438",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "WORLD",
+    "issuerEn": "ALAWWAL BANK",
+    "issuerKey": "alawwal_bank"
+  },
+
+  {
+    "bin": "552375",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "WORLD",
+    "issuerEn": "ALAWWAL BANK",
+    "issuerKey": "alawwal_bank"
+  },
+  {
+    "bin": "558848",
+    "scheme": "MASTERCARD",
+    "cardType": "DEBIT",
+    "category": "PLATINUM",
+    "issuerEn": "ALAWWAL BANK",
+    "issuerKey": "alawwal_bank"
+  },
+
+  {
+    "bin": "557606",
+    "scheme": "MASTERCARD",
+    "cardType": "DEBIT",
+    "category": "TITANIUM",
+    "issuerEn": "ALAWWAL BANK",
+    "issuerKey": "alawwal_bank"
+  },
+  {
+    "bin": "558854",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "EXECUTIVE",
+    "issuerEn": "ALAWWAL BANK",
+    "issuerKey": "alawwal_bank"
+  },
+
+  {
+    "bin": "420132",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "STC Pay",
+    "issuerKey": "stc_pay"
+  },
+  {
+    "bin": "400861",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "ELECTRON",
+    "issuerEn": "AL RAJHI BANKING AND INVESTMENT CORP.",
+    "issuerKey": "al_rajhi_banking_and_investment_corp"
+  },
+  {
+    "bin": "405433",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "PREPAID",
+    "issuerEn": "AL RAJHI BANKING AND INVESTMENT CORP.",
+    "issuerKey": "al_rajhi_banking_and_investment_corp"
+  },
+  {
+    "bin": "407620",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "BUSINESS",
+    "issuerEn": "AL RAJHI BANKING AND INVESTMENT CORP.",
+    "issuerKey": "al_rajhi_banking_and_investment_corp"
+  },
+  {
+    "bin": "410249",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "PREPAID",
+    "issuerEn": "AL RAJHI BANKING AND INVESTMENT CORP.",
+    "issuerKey": "al_rajhi_banking_and_investment_corp"
+  },
+  {
+    "bin": "410248",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "CLASSIC",
+    "issuerEn": "AL RAJHI BANKING AND INVESTMENT CORP.",
+    "issuerKey": "al_rajhi_banking_and_investment_corp"
+  },
+  {
+    "bin": "409246",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "ULTRA HIGH NET WORTH",
+    "issuerEn": "AL RAJHI BANKING AND INVESTMENT CORP.",
+    "issuerKey": "al_rajhi_banking_and_investment_corp"
+  },
+  {
+    "bin": "419461",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "CLASSIC",
+    "issuerEn": "AL RAJHI BANKING AND INVESTMENT CORP.",
+    "issuerKey": "al_rajhi_banking_and_investment_corp"
+  },
+  {
+    "bin": "417323",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "PLATINUM",
+    "issuerEn": "AL RAJHI BANKING AND INVESTMENT CORP.",
+    "issuerKey": "al_rajhi_banking_and_investment_corp"
+  },
+  {
+    "bin": "417321",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "CLASSIC",
+    "issuerEn": "AL RAJHI BANKING AND INVESTMENT CORP.",
+    "issuerKey": "al_rajhi_banking_and_investment_corp"
+  },
+  {
+    "bin": "416634",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "CLASSIC",
+    "issuerEn": "AL RAJHI BANKING AND INVESTMENT CORP.",
+    "issuerKey": "al_rajhi_banking_and_investment_corp"
+  },
+
+  {
+    "bin": "414627",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "PLATINUM",
+    "issuerEn": "AL RAJHI BANKING AND INVESTMENT CORP.",
+    "issuerKey": "al_rajhi_banking_and_investment_corp"
+  },
+  {
+    "bin": "445827",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "PREPAID",
+    "issuerEn": "AL RAJHI BANKING AND INVESTMENT CORP.",
+    "issuerKey": "al_rajhi_banking_and_investment_corp"
+  },
+  {
+    "bin": "445826",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "PREPAID",
+    "issuerEn": "AL RAJHI BANKING AND INVESTMENT CORP.",
+    "issuerKey": "al_rajhi_banking_and_investment_corp"
+  },
+
+  {
+    "bin": "445522",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "PREPAID",
+    "issuerEn": "AL RAJHI BANKING AND INVESTMENT CORP.",
+    "issuerKey": "al_rajhi_banking_and_investment_corp"
+  },
+  {
+    "bin": "445521",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "SIGNATURE",
+    "issuerEn": "AL RAJHI BANKING AND INVESTMENT CORP.",
+    "issuerKey": "al_rajhi_banking_and_investment_corp"
+  },
+  {
+    "bin": "445520",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "SIGNATURE",
+    "issuerEn": "AL RAJHI BANKING AND INVESTMENT CORP.",
+    "issuerKey": "al_rajhi_banking_and_investment_corp"
+  },
+
+  {
+    "bin": "436321",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "CLASSIC",
+    "issuerEn": "AL RAJHI BANKING AND INVESTMENT CORP.",
+    "issuerKey": "al_rajhi_banking_and_investment_corp"
+  },
+
+  {
+    "bin": "432159",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "INFINITE",
+    "issuerEn": "AL RAJHI BANKING AND INVESTMENT CORP.",
+    "issuerKey": "al_rajhi_banking_and_investment_corp"
+  },
+
+  {
+    "bin": "426362",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "PLATINUM",
+    "issuerEn": "AL RAJHI BANKING AND INVESTMENT CORP.",
+    "issuerKey": "al_rajhi_banking_and_investment_corp"
+  },
+  {
+    "bin": "455740",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "CLASSIC",
+    "issuerEn": "AL RAJHI BANKING AND INVESTMENT CORP.",
+    "issuerKey": "al_rajhi_banking_and_investment_corp"
+  },
+  {
+    "bin": "455739",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "PLATINUM",
+    "issuerEn": "AL RAJHI BANKING AND INVESTMENT CORP.",
+    "issuerKey": "al_rajhi_banking_and_investment_corp"
+  },
+  {
+    "bin": "524126",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "TITANIUM",
+    "issuerEn": "AL-RAJHI BANKING AND INVESTMENT CORPORATION",
+    "issuerKey": "al_rajhi_banking_and_investment_corporation"
+  },
+
+  {
+    "bin": "512623",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "STANDARD",
+    "issuerEn": "AL-RAJHI BANKING AND INVESTMENT CORPORATION",
+    "issuerKey": "al_rajhi_banking_and_investment_corporation"
+  },
+
+  {
+    "bin": "494329",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "BUSINESS",
+    "issuerEn": "AL RAJHI BANKING AND INVESTMENT CORP.",
+    "issuerKey": "al_rajhi_banking_and_investment_corp"
+  },
+
+  {
+    "bin": "490980",
+    "scheme": "VISA",
+    "cardType": "DEBIT",
+    "category": "ELECTRON",
+    "issuerEn": "AL RAJHI BANKING AND INVESTMENT CORP.",
+    "issuerKey": "al_rajhi_banking_and_investment_corp"
+  },
+
+  {
+    "bin": "486653",
+    "scheme": "VISA",
+    "cardType": "CREDIT",
+    "category": "PURCHASING",
+    "issuerEn": "AL RAJHI BANKING AND INVESTMENT CORP.",
+    "issuerKey": "al_rajhi_banking_and_investment_corp"
+  },
+  {
+    "bin": "542894",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "nan",
+    "issuerEn": "AL RAJHI BANKING AND INVESTMENT CORP.",
+    "issuerKey": "al_rajhi_banking_and_investment_corp"
+  },
+  {
+    "bin": "545619",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "STANDARD",
+    "issuerEn": "AL-RAJHI BANKING AND INVESTMENT CORPORATION",
+    "issuerKey": "al_rajhi_banking_and_investment_corporation"
+  },
+  {
+    "bin": "549964",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "TITANIUM",
+    "issuerEn": "AL-RAJHI BANKING AND INVESTMENT CORPORATION",
+    "issuerKey": "al_rajhi_banking_and_investment_corporation"
+  },
+  {
+    "bin": "549963",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "TITANIUM",
+    "issuerEn": "AL-RAJHI BANKING AND INVESTMENT CORPORATION",
+    "issuerKey": "al_rajhi_banking_and_investment_corporation"
+  },
+  {
+    "bin": "554575",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "PLATINUM",
+    "issuerEn": "AL-RAJHI BANKING AND INVESTMENT CORPORATION",
+    "issuerKey": "al_rajhi_banking_and_investment_corporation"
+  },
+  {
+    "bin": "410621",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "AL-RAJHI BANKING AND INVESTMENT CORPORATION",
+    "issuerKey": "al_rajhi_banking_and_investment_corporation"
+  },
+
+  {
+    "bin": "409201",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "AL-RAJHI BANKING AND INVESTMENT CORPORATION",
+    "issuerKey": "al_rajhi_banking_and_investment_corporation"
+  },
+
+  {
+    "bin": "403024",
+    "scheme": "Mada",
+    "cardType": "CREDIT",
+    "category": "Visa",
+    "issuerEn": "AL-RAJHI BANKING AND INVESTMENT CORPORATION",
+    "issuerKey": "al_rajhi_banking_and_investment_corporation"
+  },
+  {
+    "bin": "484783",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "AL-RAJHI BANKING AND INVESTMENT CORPORATION",
+    "issuerKey": "al_rajhi_banking_and_investment_corporation"
+  },
+
+  {
+    "bin": "462220",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "AL-RAJHI BANKING AND INVESTMENT CORPORATION",
+    "issuerKey": "al_rajhi_banking_and_investment_corporation"
+  },
+
+  {
+    "bin": "458456",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Visa",
+    "issuerEn": "AL-RAJHI BANKING AND INVESTMENT CORPORATION",
+    "issuerKey": "al_rajhi_banking_and_investment_corporation"
+  },
+
+  {
+    "bin": "455708",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Local",
+    "issuerEn": "AL-RAJHI BANKING AND INVESTMENT CORPORATION",
+    "issuerKey": "al_rajhi_banking_and_investment_corporation"
+  },
+  {
+    "bin": "968205",
+    "scheme": "Mada",
+    "cardType": "DEBIT",
+    "category": "Local",
+    "issuerEn": "AL-RAJHI BANKING AND INVESTMENT CORPORATION",
+    "issuerKey": "al_rajhi_banking_and_investment_corporation"
+  },
+  {
+    "bin": "524266",
+    "scheme": "MASTERCARD",
+    "cardType": "CREDIT",
+    "category": "TITANIUM",
+    "issuerEn": "AL-RAJHI BANKING AND INVESTMENT CORPORATION",
+    "issuerKey": "al_rajhi_banking_and_investment_corporation"
+  }
+]

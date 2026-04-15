@@ -1,0 +1,370 @@
+{
+  "generatedAt": "2026-02-16T10:44:35.462Z",
+  "sourceFile": "bin.json",
+  "totalRecords": 364,
+  "totalBanks": 17,
+  "recordsPerBank": [
+    {
+      "issuerKey": "al_bank_al_saudi_al_fransi",
+      "totalRecords": 40,
+      "issuerNames": [
+        "Al Bank Al Saudi Al Fransi"
+      ]
+    },
+    {
+      "issuerKey": "al_bilad_bank",
+      "totalRecords": 23,
+      "issuerNames": [
+        "Al Bilad Bank",
+        "AL BILAD BANK"
+      ]
+    },
+    {
+      "issuerKey": "al_rajhi_banking_and_investment_corporation",
+      "totalRecords": 40,
+      "issuerNames": [
+        "AL RAJHI BANKING AND INVESTMENT CORP.",
+        "AL-RAJHI BANKING AND INVESTMENT CORPORATION"
+      ]
+    },
+    {
+      "issuerKey": "alawwal_bank",
+      "totalRecords": 14,
+      "issuerNames": [
+        "ALAWWAL BANK"
+      ]
+    },
+    {
+      "issuerKey": "arab_national_bank",
+      "totalRecords": 23,
+      "issuerNames": [
+        "Arab National Bank",
+        "ARAB NATIONAL BANK"
+      ]
+    },
+    {
+      "issuerKey": "bank_al_jazira",
+      "totalRecords": 23,
+      "issuerNames": [
+        "BANK AL JAZIRA",
+        "Bank Al-Jazira"
+      ]
+    },
+    {
+      "issuerKey": "barraq_finance_company",
+      "totalRecords": 1,
+      "issuerNames": [
+        "Barraq Finance Company"
+      ]
+    },
+    {
+      "issuerKey": "gulf_international_bank",
+      "totalRecords": 2,
+      "issuerNames": [
+        "Gulf International Bank"
+      ]
+    },
+    {
+      "issuerKey": "inma_bank",
+      "totalRecords": 24,
+      "issuerNames": [
+        "INMA Bank"
+      ]
+    },
+    {
+      "issuerKey": "meem_bank",
+      "totalRecords": 1,
+      "issuerNames": [
+        "MEEM BANK"
+      ]
+    },
+    {
+      "issuerKey": "national_commercial_bank",
+      "totalRecords": 61,
+      "issuerNames": [
+        "National Commercial Bank",
+        "NATIONAL COMMERCIAL BANK"
+      ]
+    },
+    {
+      "issuerKey": "riyadh_bank",
+      "totalRecords": 28,
+      "issuerNames": [
+        "Riyadh Bank"
+      ]
+    },
+    {
+      "issuerKey": "samba_financial_group",
+      "totalRecords": 22,
+      "issuerNames": [
+        "SAMBA FINANCIAL GROUP"
+      ]
+    },
+    {
+      "issuerKey": "saudi_british_bank",
+      "totalRecords": 26,
+      "issuerNames": [
+        "Saudi British Bank",
+        "SAUDI BRITISH BANK"
+      ]
+    },
+    {
+      "issuerKey": "saudi_hollandi_bank",
+      "totalRecords": 13,
+      "issuerNames": [
+        "SAUDI HOLLANDI BANK"
+      ]
+    },
+    {
+      "issuerKey": "saudi_investment_bank",
+      "totalRecords": 22,
+      "issuerNames": [
+        "Saudi Investment Bank",
+        "SAUDI INVESTMENT BANK"
+      ]
+    },
+    {
+      "issuerKey": "stc_pay",
+      "totalRecords": 1,
+      "issuerNames": [
+        "STC Pay"
+      ]
+    }
+  ],
+  "dataQuality": {
+    "invalidBinLengthCount": 1,
+    "invalidBinLength": [
+      {
+        "index": 250,
+        "bin": "42689700",
+        "issuerKey": "inma_bank",
+        "sourceIssuerKey": "inma_bank",
+        "issuerEn": "INMA Bank"
+      }
+    ],
+    "nullCardTypeCount": 2,
+    "nullCardType": [
+      {
+        "index": 221,
+        "bin": "968211",
+        "issuerKey": "bank_al_jazira",
+        "sourceIssuerKey": "bank_al_jazira",
+        "issuerEn": "Bank Al-Jazira"
+      },
+      {
+        "index": 250,
+        "bin": "42689700",
+        "issuerKey": "inma_bank",
+        "sourceIssuerKey": "inma_bank",
+        "issuerEn": "INMA Bank"
+      }
+    ],
+    "nanCategoryCount": 28,
+    "nanCategory": [
+      {
+        "index": 0,
+        "bin": "400067",
+        "issuerKey": "arab_national_bank",
+        "sourceIssuerKey": "arab_national_bank",
+        "issuerEn": "ARAB NATIONAL BANK"
+      },
+      {
+        "index": 1,
+        "bin": "404949",
+        "issuerKey": "arab_national_bank",
+        "sourceIssuerKey": "arab_national_bank",
+        "issuerEn": "ARAB NATIONAL BANK"
+      },
+      {
+        "index": 3,
+        "bin": "451111",
+        "issuerKey": "arab_national_bank",
+        "sourceIssuerKey": "arab_national_bank",
+        "issuerEn": "ARAB NATIONAL BANK"
+      },
+      {
+        "index": 4,
+        "bin": "455017",
+        "issuerKey": "arab_national_bank",
+        "sourceIssuerKey": "arab_national_bank",
+        "issuerEn": "ARAB NATIONAL BANK"
+      },
+      {
+        "index": 13,
+        "bin": "491610",
+        "issuerKey": "arab_national_bank",
+        "sourceIssuerKey": "arab_national_bank",
+        "issuerEn": "ARAB NATIONAL BANK"
+      },
+      {
+        "index": 14,
+        "bin": "517918",
+        "issuerKey": "arab_national_bank",
+        "sourceIssuerKey": "arab_national_bank",
+        "issuerEn": "ARAB NATIONAL BANK"
+      },
+      {
+        "index": 20,
+        "bin": "549400",
+        "issuerKey": "arab_national_bank",
+        "sourceIssuerKey": "arab_national_bank",
+        "issuerEn": "ARAB NATIONAL BANK"
+      },
+      {
+        "index": 58,
+        "bin": "532166",
+        "issuerKey": "national_commercial_bank",
+        "sourceIssuerKey": "national_commercial_bank",
+        "issuerEn": "NATIONAL COMMERCIAL BANK"
+      },
+      {
+        "index": 154,
+        "bin": "455020",
+        "issuerKey": "samba_financial_group",
+        "sourceIssuerKey": "samba_financial_group",
+        "issuerEn": "SAMBA FINANCIAL GROUP"
+      },
+      {
+        "index": 156,
+        "bin": "477983",
+        "issuerKey": "samba_financial_group",
+        "sourceIssuerKey": "samba_financial_group",
+        "issuerEn": "SAMBA FINANCIAL GROUP"
+      },
+      {
+        "index": 163,
+        "bin": "542805",
+        "issuerKey": "samba_financial_group",
+        "sourceIssuerKey": "samba_financial_group",
+        "issuerEn": "SAMBA FINANCIAL GROUP"
+      },
+      {
+        "index": 177,
+        "bin": "469616",
+        "issuerKey": "saudi_investment_bank",
+        "sourceIssuerKey": "saudi_investment_bank",
+        "issuerEn": "SAUDI INVESTMENT BANK"
+      },
+      {
+        "index": 184,
+        "bin": "483009",
+        "issuerKey": "saudi_investment_bank",
+        "sourceIssuerKey": "saudi_investment_bank",
+        "issuerEn": "SAUDI INVESTMENT BANK"
+      },
+      {
+        "index": 191,
+        "bin": "406485",
+        "issuerKey": "saudi_hollandi_bank",
+        "sourceIssuerKey": "saudi_hollandi_bank",
+        "issuerEn": "SAUDI HOLLANDI BANK"
+      },
+      {
+        "index": 200,
+        "bin": "490745",
+        "issuerKey": "saudi_hollandi_bank",
+        "sourceIssuerKey": "saudi_hollandi_bank",
+        "issuerEn": "SAUDI HOLLANDI BANK"
+      },
+      {
+        "index": 203,
+        "bin": "558705",
+        "issuerKey": "saudi_hollandi_bank",
+        "sourceIssuerKey": "saudi_hollandi_bank",
+        "issuerEn": "SAUDI HOLLANDI BANK"
+      },
+      {
+        "index": 204,
+        "bin": "406487",
+        "issuerKey": "bank_al_jazira",
+        "sourceIssuerKey": "bank_al_jazira",
+        "issuerEn": "BANK AL JAZIRA"
+      },
+      {
+        "index": 207,
+        "bin": "421051",
+        "issuerKey": "bank_al_jazira",
+        "sourceIssuerKey": "bank_al_jazira",
+        "issuerEn": "BANK AL JAZIRA"
+      },
+      {
+        "index": 223,
+        "bin": "523041",
+        "issuerKey": "bank_al_jazira",
+        "sourceIssuerKey": "bank_al_jazira",
+        "issuerEn": "Bank Al-Jazira"
+      },
+      {
+        "index": 241,
+        "bin": "458270",
+        "issuerKey": "inma_bank",
+        "sourceIssuerKey": "inma_bank",
+        "issuerEn": "INMA Bank"
+      },
+      {
+        "index": 260,
+        "bin": "435240",
+        "issuerKey": "riyadh_bank",
+        "sourceIssuerKey": "riyadh_bank",
+        "issuerEn": "Riyadh Bank"
+      },
+      {
+        "index": 261,
+        "bin": "433952",
+        "issuerKey": "riyadh_bank",
+        "sourceIssuerKey": "riyadh_bank",
+        "issuerEn": "Riyadh Bank"
+      },
+      {
+        "index": 266,
+        "bin": "490917",
+        "issuerKey": "riyadh_bank",
+        "sourceIssuerKey": "riyadh_bank",
+        "issuerEn": "Riyadh Bank"
+      },
+      {
+        "index": 275,
+        "bin": "545855",
+        "issuerKey": "riyadh_bank",
+        "sourceIssuerKey": "riyadh_bank",
+        "issuerEn": "Riyadh Bank"
+      },
+      {
+        "index": 297,
+        "bin": "545297",
+        "issuerKey": "saudi_british_bank",
+        "sourceIssuerKey": "saudi_british_bank",
+        "issuerEn": "SAUDI BRITISH BANK"
+      },
+      {
+        "index": 302,
+        "bin": "549799",
+        "issuerKey": "saudi_british_bank",
+        "sourceIssuerKey": "saudi_british_bank",
+        "issuerEn": "SAUDI BRITISH BANK"
+      },
+      {
+        "index": 308,
+        "bin": "454887",
+        "issuerKey": "barraq_finance_company",
+        "sourceIssuerKey": "barraq_finance_company",
+        "issuerEn": "Barraq Finance Company"
+      },
+      {
+        "index": 350,
+        "bin": "542894",
+        "issuerKey": "al_rajhi_banking_and_investment_corporation",
+        "sourceIssuerKey": "al_rajhi_banking_and_investment_corp",
+        "issuerEn": "AL RAJHI BANKING AND INVESTMENT CORP."
+      }
+    ],
+    "duplicateBinsAcrossBanksCount": 0,
+    "duplicateBinsAcrossBanks": [],
+    "banksWithoutLogoCount": 0,
+    "banksWithoutLogo": [],
+    "unusedLogoFilesCount": 1,
+    "unusedLogoFiles": [
+      "saudi_national_bank.png"
+    ]
+  }
+}

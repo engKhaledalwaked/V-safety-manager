@@ -1,0 +1,5 @@
+{
+  "name": "V-Safety Manager",
+  "description": "A comprehensive React application featuring a real-time admin dashboard for monitoring user sessions and a client-side vehicle inspection booking flow, utilizing Socket.IO patterns and Tailwind CSS.",
+  "requestFramePermissions": []
+}
